@@ -1,0 +1,42 @@
+html, body{
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Inter', sans-serif;
+}
+.container{
+    width: 350px;
+    margin-bottom: 20px;
+
+
+}
+#inputField{
+    width: 250px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    outline: none;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.addToDoBtn{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+}
+.todo-containe{
+   margin-top: 30px;
+}
+.todoParagraph{
+    font-size: 20px;
+    display: inline-block;
+    cursor: pointer;
+    color: rgb(69, 140, 216);
+  
+}
+#deleteBtn{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+   
+}
